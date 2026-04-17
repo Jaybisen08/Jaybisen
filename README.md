@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Bisen</h1>
-<h3 align="center">AIML student and Python & Frontend Developer, currently learning DSA.</h3>
+<h3 align="center"> Full Stack Developer & currently learning DSA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaybisen08&label=Profile%20views&color=0e75b6&style=flat" alt="jaybisen08" /> </p>
 
